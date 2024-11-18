@@ -12,6 +12,7 @@ Circuit Diagram:
 ![pic3](https://github.com/user-attachments/assets/4bc9c785-5a05-4c58-9e0e-9aad8e346f11)
 
 
+
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
@@ -29,6 +30,12 @@ ii.	Create Schematic Cell view.
 iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
+
+
+
+
+
+
 
 
 i)	Procedure for Creating New Library.
@@ -70,6 +77,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+
+
+
 
 ![3 1](https://github.com/user-attachments/assets/c6d0f91c-ff2a-4dba-a705-c72b207511db)
 
